@@ -1,0 +1,14 @@
+{
+  "name": "calculator-nodejs",
+  "version": "1.0.0",
+  "description": "Calculadora simples em NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mylena Verspeelt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
